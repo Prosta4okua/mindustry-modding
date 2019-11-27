@@ -1,4 +1,4 @@
-#+TITLE: Mindustry Modding Guide
+#+TITLE: Руководство Mindustry по созданию по созданию модификаций
 :PREAMBLE:
 #+AUTHOR: Simon Woodbury-Forget
 #+EMAIL: simonwoodburyforget@gmail.com
